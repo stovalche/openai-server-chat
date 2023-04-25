@@ -7,4 +7,3 @@ ServerAI Client chatting TCP Application based on Openai.
 python3 -m pip install -r ./requirements.txt
 
 - openai
-- IPython
