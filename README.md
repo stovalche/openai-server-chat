@@ -1,8 +1,8 @@
-## opeani-server-chat
+# opeani-server-chat
 
 ServerAI Client chatting TCP Application based on Openai.
 
-# requirements
+### requirements
 
 python3 -m pip install -r ./requirements.txt
 
